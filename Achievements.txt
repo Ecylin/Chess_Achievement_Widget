@@ -1,0 +1,145 @@
+profile_self_portrait,Self-Portrait
+progressive_live_blitz,Blitz (Games Played)
+progressive_live_rapid,Rapid (Games Played)
+progressive_live_bullet,Bullet (Games Played)
+progressive_daily_games,Daily (Games Played)
+bot_precious_snowflake,Precious Snowflake
+bot_nutcracker,Nutcracker
+bot_full_stocking,Full Stocking
+bot_jingle_bell,Jingle Bell
+bot_holly_berry,Holly Berry
+activity_first_word,1st Word
+fun_first,First!
+membership_purchased,Chess.com Supporter
+tactics_newbie,Puzzle Newbie
+tactics_beginner,Puzzle Beginner
+tactics_ace,Puzzle Ace
+tactics_veteran,Puzzle Veteran
+tactics_addict,Puzzle Addict
+tactics_machine,Puzzle Machine
+tactics_full_day,Full Day
+tactics_good_habit,Good Habit
+tactics_hot_streak,Hot Streak
+progressive_puzzle_rush_played,Rush (Games Played)
+progressive_puzzle_played,Puzzle (Puzzles Solved)
+progressive_puzzle_battle_played,Puzzle Battle (Games Played)
+progressive_lessons_count,Lessons
+progressive_3check_count,3Check (Games Played)
+progressive_crazyhouse_count,Crazyhouse (Games Played)
+progressive_puzzle_rush_speed_solver,Speed Solver (Puzzles Solved)
+progressive_puzzle_rush_streaks,Rush Streaks (Puzzle Streak)
+drills_1st_attempt,Train Your Brain
+drills_brains_of_steel,Brains of Steel
+drills_silicon_brain,Silicon Brain
+live_man_vs_machine,Man vs Machine
+live_crazyhouse_surprise,Surprise!
+live_crazyhouse_mad_scientist,Mad Scientist
+live_3check_easy,Easy as 1-2-3
+live_3check_3strikes,Three Strikes
+live_king_of_the_hill_higher_ground,Higher Ground
+live_king_of_hill_mountain_climber,Mountain Climber
+live_bughouse_worker_bee,Worker Bee
+live_bughouse_hive_mind,Hive Mind
+four_player_chess_dangerous_intersection,Dangerous Intersection
+four_player_chess_battle_royale,Battle Royale
+game_analysis_second_opinion,Second Opinion
+game_analysis_hindsight,Hindsight 20/20
+stats_statistician,Statistician
+explorer_introspection,Introspection
+tournaments_contender,Contender
+tournaments_competitor,Competitor
+tournaments_challenger,Challenger
+clubs_team_player,Team Player
+clubs_team_pillar,Team Pillar
+fun_killer_pawn,Killer Pawn
+fun_killer_knight,Killer Knight
+fun_killer_bishop,Killer Bishop
+fun_killer_rook,Killer Rook
+fun_killer_queen,Killer Queen
+fun_killer_king,Killer King
+fun_castle_victory,Castle Victory
+daily_game_960_1,Random Thoughts
+daily_game_960_10,Mix Master
+daily_game_juggler,Juggler
+daily_world_traveler,World Traveler
+fun_chess_marathon,Chess Marathon
+fun_quick_knockout,Quick Knockout
+live_nick_of_time,Nick of Time
+fun_full_house,Full House
+explorer_bobby_fischer,Searching for Bobby Fischer
+friends_buddy_system,Buddy System
+friends_social_butterfly,Social Butterfly
+friends_pen_pal,Pen Pal
+friends_bring_a_friend,Bring a Friend
+friends_people_person,People Person
+clubs_member,Club Member
+clubs_pack_leader,Pack Leader
+votechess_ballot_box,Ballot Box
+tournaments_organizer,Organizer
+tournaments_director,Director
+articles_front_page,Front Page
+articles_reading_glasses,Reading Glasses
+articles_library_card,Library Card
+lessons_first_lesson_complete,1st Lesson
+lessons_level_new_complete,"New" Complete
+lessons_level_beginner_complete,"Beginner" Complete
+lessons_level_intermediate_complete,"Intermediate" Complete
+lessons_level_advanced_complete,"Advanced" Complete
+messages_say_hello,Say Hello
+activity_participant,Participant
+activity_megaphone,Megaphone
+activity_chatterbox,Chatterbox
+activity_conversation_starter,Conversation Starter
+blogs_soapbox,Soapbox
+blogs_printing_press,Printing Press
+blogs_good_read,Good Read
+misc_devoted,Devoted
+misc_fanatic,Fanatic
+fun_survey_says,Survey Says
+tv_tv_guide,TV Guide
+tv_couch_potato,Couch Potato
+tv_junkie,TV Junkie
+videos_press_play,Press Play
+videos_popcorn_lover,Popcorn Lover
+videos_film_buff,Film Buff
+videos_movie_star,Movie Star
+trophies_giver,Giver
+trophies_awarder,Awarder
+trophies_generous_spirit,Generous Spirit
+membership_gift_giver,Gift Wrap
+membership_vip_referrer,VIP Referrer
+mobile_android,Go Mobile (Android)
+mobile_ios,Go Mobile (iOS)
+social_tweet,Tweet!
+social_like,Like!
+profile_friend_me,Friend Me
+fun_3d_glasses,3D Glasses
+profile_finger_paint,Finger Paint
+trophies_prize_winner,Prize Winner
+trophies_trophy_hunter,Trophy Hunter
+trophies_award_magnet,Award Magnet
+vision_done,Eye Doctor
+progressive_puzzles_rating,Puzzles (Rating)
+progressive_bullet_rating,Bullet (Rating)
+progressive_blitz_rating,Blitz (Rating)
+progressive_rapid_rating,Rapid (Rating)
+progressive_daily_rating,Daily (Rating)
+progressive_3check_rating,3Check (Rating)
+progressive_crazyhouse_rating,Crazyhouse (Rating)
+progressive_bughouse_rating,Bughouse (Rating)
+progressive_kingofthehill_rating,King of the Hill (Rating)
+progressive_livechess960_rating,Live 960 (Rating)
+progressive_dailychess960_rating,Dailychess960 (Rating)
+progressive_dailychess960_count,Dailychess960 (Games Played)
+progressive_livechess960_count,Live 960 (Games Played)
+progressive_kingofthehill_count,King of the Hill (Games Played)
+progressive_bughouse_count,Bughouse (Games Played)
+progressive_happy_anniversary,Happy Anniversary
+league_wood,Wood League
+league_stone,Stone League
+league_bronze,Bronze League
+league_silver,Silver League
+league_crystal,Crystal League
+league_elite,Elite League
+league_champion,Champion League
+league_legend,Legend League
