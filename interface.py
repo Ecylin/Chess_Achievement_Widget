@@ -30,8 +30,6 @@ def submit():
         achievement_list = f"{get_names(get_missing(username))}"
         output = format_list(achievement_list, 40)
 
-        print(output)
-
     except KeyError:
         output = f"Unable to load achievements for user \"{username}\"." \
                  "\nMake sure you input your username correctly"
