@@ -1,26 +1,21 @@
 import tkinter as tk
+import webbrowser
 
 from chess_achievements import *
+from format import *
+
+width = 600
+height = 400
 
 root = tk.Tk()
 root.title("Chess.com Achievements Helper")
-root.geometry("600x400")
+root.geometry(f"{str(width)}x{str(height)}")
 
 username_var = tk.StringVar()
 
 
-# function pulled from https://stackoverflow.com/questions/171662/formatting-a-list-of-text-into-columns
-def formatcols(mylist, cols):
-    maxWidth = max(map(lambda x: len(x), mylist))
-    justifyList = list(map(lambda x: x.ljust(maxWidth), mylist))
-    lines = (' '.join(justifyList[i:i + cols])
-             for i in range(0, len(justifyList), cols))
-    return "\n".join(lines)
-
-
-def format_list(input_list, maxsize):
-    size = len(input_list.splitlines())
-    return formatcols(input_list.splitlines(), size // maxsize + 1)
+def callback(url):
+    webbrowser.open_new(url)
 
 
 def submit():
@@ -36,23 +31,26 @@ def submit():
 
     missing_names_head = tk.Label(root,
                                   text=f"Missing Achievements for \"{username}\":",
-                                  font=('Courier', 12))
+                                  font=('Courier', 14))
     missing_names = tk.Label(root,
                              text=output,
-                             font=('Courier', 10),
-                             justify="left")
+                             font=('Courier', 12),
+                             justify="left",
+                             cursor="star")
 
     missing_names_head.grid(row=2, column=0, columnspan=5)
     missing_names.grid(row=3, column=0, columnspan=5)
+    missing_names.bind("<Button-1>", lambda e: callback("https://www.chess.com/blog/Nevisaurus_Rex/"
+                                                        "list-of-all-achievements-1"))
 
 
 # creating a label for
 # name using widget Label
-username_label = tk.Label(root, text='Username', font=('calibre', 12))
+username_label = tk.Label(root, text='Username', font=('Courier', 12))
 
 # creating an entry for input
 # name using widget Entry
-username_entry = tk.Entry(root, textvariable=username_var, font=('calibre', 10, 'normal'))
+username_entry = tk.Entry(root, textvariable=username_var, font=('Courier', 10, 'normal'))
 
 # creating a button using the widget
 # Button that will call the submit function
